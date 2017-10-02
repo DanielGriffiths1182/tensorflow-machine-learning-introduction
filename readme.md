@@ -1,8 +1,8 @@
-#BEGINING TENSORFLOW MACHINE LEARNING
+#BEGINING TENSORFLOW MACHINE LEARNING#
 
 *Daniel Griffiths' experience*
 
-**install TensorFlow
+**install TensorFlow**
 1.
 
 
@@ -11,7 +11,7 @@
 -  `sudo` If not root user
 -  `--ignore-installed six` On MacOSX due to preinstalled version of six
 
-**easy_install
+**easy_install**
 1.
 
 
@@ -25,7 +25,7 @@
 
     `python`
 
-**python
+**python**
 1.
 
 
@@ -34,7 +34,7 @@
     `sess = tf.Session()``
     `print(sess.run(hello))`
 
-**return
+**return**
 - `'Hello, TensorFlow!'`
 
 
