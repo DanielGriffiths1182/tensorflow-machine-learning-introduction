@@ -11,7 +11,7 @@
 -  `sudo` If not root user
 -  `--ignore-installed six` On MacOSX due to preinstalled version of six
 
-**easy_install (only if `import tensorflow as tf` throws numpy version error**
+**easy_install (only if `import tensorflow as tf` throws numpy version error)**
 
 
 
