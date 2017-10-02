@@ -1,4 +1,4 @@
-#BEGINING TENSORFLOW MACHINE LEARNING
+**BEGINING TENSORFLOW MACHINE LEARNING**
 
 *Daniel Griffiths' experience*
 
@@ -19,7 +19,7 @@
 
 - `easy_install` regulates numpy versions
 
-# start Python in Command Line
+**start Python in Command Line**
 1.
 
 
